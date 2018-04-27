@@ -1,0 +1,10 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/first_csharp/bin/Debug/netcoreapp2.0/first_csharp.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/first_csharp/bin/Debug/netcoreapp2.0/first_csharp.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/first_csharp/bin/Debug/netcoreapp2.0/first_csharp.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/first_csharp/bin/Debug/netcoreapp2.0/first_csharp.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/first_csharp/bin/Debug/netcoreapp2.0/first_csharp.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/first_csharp/obj/Debug/netcoreapp2.0/first_csharp.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/first_csharp/obj/Debug/netcoreapp2.0/first_csharp.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/first_csharp/obj/Debug/netcoreapp2.0/first_csharp.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/first_csharp/obj/Debug/netcoreapp2.0/first_csharp.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/first_csharp/obj/Debug/netcoreapp2.0/first_csharp.pdb
